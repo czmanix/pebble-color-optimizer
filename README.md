@@ -1,7 +1,7 @@
 # Pebble Photo Optimizer
 
 ## Overview
-Pebble Photo Optimizer is a web-based tool designed to help developers and designers convert full-color images into optimized 64-color assets for Pebble Time smartwatches[cite: 4, 34]. 
+Pebble Photo Optimizer is a web-based tool designed to help developers and designers convert full-color images into optimized 64-color assets for Pebble Time smartwatches. 
 
 **Try it live:** [https://czmanix.github.io/pebble-color-optimizer/](https://czmanix.github.io/pebble-color-optimizer/)
 
@@ -10,7 +10,7 @@ Developing for Pebble's e-paper display can be challenging. What looks great on 
 This tool solves this by using hardware simulation palettes. It calculates the best color match based on how colors actually appear in real life, and reverse-maps them to generate the pure standard Pebble color code.
 
 ## Features
-* **Live Environment Previews**: See how your image will look across different lighting conditions side-by-side: Direct Sunlight, Standard Room lighting, and Backlight[cite: 8, 42].
+* **Live Environment Previews**: See how your image will look across different lighting conditions side-by-side: Direct Sunlight, Standard Room lighting, and Backlight.
 * **Pre-processing Controls**: Adjust Brightness and Contrast before color quantization to prevent shadows and highlights from merging into unreadable dark blobs.
 * **Advanced Dithering Modes**: Choose between Nearest Color (Off), Atkinson Dithering, and a 50:50 Checkerboard mix to create natural, vibrant gradients.
 
